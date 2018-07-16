@@ -16,7 +16,7 @@ rules:
   node-core/eslint-check: error
   node-core/inspector-check: error
   node-core/number-isnan: error
-  ## common module is mandatory in tests
+  ## common module is mandatory in testing
   node-core/required-modules: [error, common]
   node-core/no-duplicate-requires: off
 
